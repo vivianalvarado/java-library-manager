@@ -11,9 +11,9 @@ Sistema de gestión de inventario para bibliotecas desarrollado en Java. El proy
 
 ### 3. Competencias Técnicas Demostradas (PEA - Semestre II)
 Este proyecto cumple con las tareas específicas del plan curricular de Ingeniería de Software:
-* [cite_start]✅ **Clases y Objetos:** Implementación de la clase `Libro` con atributos y constructor, validando la tarea "Implementar el concepto de clases en Java".
+* ✅ **Clases y Objetos:** Implementación de la clase `Libro` con atributos y constructor, validando la tarea "Implementar el concepto de clases en Java".
 * ✅ **Colecciones:** Uso de `ArrayList<>` para la gestión dinámica de memoria (CRUD en RAM).
-* [cite_start]✅ **Manejo de Excepciones:** Bloques `try-catch` para controlar errores de entrada de datos (`NumberFormatException`), validando la tarea "Implementar el concepto de excepciones".
+* ✅ **Manejo de Excepciones:** Bloques `try-catch` para controlar errores de entrada de datos (`NumberFormatException`), validando la tarea "Implementar el concepto de excepciones".
 * ✅ **Estructura de Programa:** Organización modular con métodos estáticos (`static void`).
 
 ### 4. Cómo ejecutar
